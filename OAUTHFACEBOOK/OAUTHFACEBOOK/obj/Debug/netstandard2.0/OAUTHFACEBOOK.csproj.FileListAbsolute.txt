@@ -1,0 +1,14 @@
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\bin\Debug\netstandard2.0\OAUTHFACEBOOK.deps.json
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\bin\Debug\netstandard2.0\OAUTHFACEBOOK.dll
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\OAUTHFACEBOOK.AssemblyInfoInputs.cache
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\OAUTHFACEBOOK.AssemblyInfo.cs
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\bin\Debug\netstandard2.0\ref\OAUTHFACEBOOK.dll
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\bin\Debug\netstandard2.0\OAUTHFACEBOOK.pdb
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\Perfil.xaml.g.cs
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\OAUTHFACEBOOK.csproj.CoreCompileInputs.cache
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\OAUTHFACEBOOK.dll
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\ref\OAUTHFACEBOOK.dll
+C:\Users\rviquez\Source\Repos\OAUTHFACEBOOK\OAUTHFACEBOOK\OAUTHFACEBOOK\obj\Debug\netstandard2.0\OAUTHFACEBOOK.pdb
